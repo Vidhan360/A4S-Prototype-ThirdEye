@@ -21,7 +21,6 @@ h1,h2,h3 {color:#22c55e;}
 """, unsafe_allow_html=True)
 
 # ---------------- Title ----------------
-st.image(r"C:\Users\mishr\Downloads\logo.png", width=90)  # Optional logo
 st.title("🛡 A4S+ — Soldier Safety Prototype")
 st.markdown("> *Digital Twin + UAV Swarm + Secure Comms*")
 
